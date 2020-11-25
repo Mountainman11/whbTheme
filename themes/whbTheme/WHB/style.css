@@ -7,3 +7,10 @@ Version: 1.0
 Textdomain: wholehealthbound
 
 */
+
+.main-background{
+    background-image: url(/images/header-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.5;
+}

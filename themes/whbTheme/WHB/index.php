@@ -1,7 +1,7 @@
 <?php
 get_header();?>
     <div>
-        This is index.php
+        <h1>This is index.php</h1>
     </div>
 <?php get_footer();
 ?>

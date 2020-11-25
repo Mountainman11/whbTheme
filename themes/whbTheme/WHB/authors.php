@@ -1,1 +1,6 @@
-This is the authors.php
+<?php
+get_header();?>
+<h1>This is authors.php</h1>
+<?php 
+get_footer();
+?>

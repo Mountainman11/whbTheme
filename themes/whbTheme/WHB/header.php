@@ -6,10 +6,10 @@
     <?php wp_head();?>
     </head>
     <body>
-    <header class="">
+    <header class="main-header ">
         <div>
             </h1>
-                <a href="<?php echo site_url();?>"><strong>Whole Health Bound</strong></a>
+                <a href="<?php echo site_url();?>">Whole Health Bound</a>
             </h1>
         <div>
         <div>
